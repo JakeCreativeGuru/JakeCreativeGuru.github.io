@@ -1,0 +1,201 @@
+#page-wrap {
+     width: 800px;
+     margin: 0 auto;
+}
+body {
+	font-family: sans-serif;
+}
+a:link {
+	color: #000;
+	text-decoration: none;
+}
+a:visited {
+	color: #000;
+}
+a:hover {
+	color: #8b8b8b;
+}
+a:hover img {
+  opacity: 0.6;
+  filter: alpha(opacity=60); /* For IE8 and earlier */
+}
+ul {
+	list-style-type: none;
+}
+.header {
+	text-align: center;
+}
+.contactinfo {
+	border-top: 2px solid #000;
+	text-align: center;
+}
+.contactinfo li {
+	display: inline;
+	padding-right: 105px;
+}
+.name {
+	
+}
+.date {
+	
+}
+.experience {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	margin-top: 20px;
+	border-top: 2px solid #000;
+	padding-left: 35px;
+}
+ol {
+	padding-left: 70px;
+}
+.education {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	margin-top: 20px;
+	border-top: 2px solid #000;
+	padding-left: 35px;
+}
+p {
+	padding-left: 70px;
+}
+.skills {
+	padding-top: 20px;
+	margin-top: 20px;
+	border-top: 2px solid #000;
+	padding-left: 35px;
+	padding-bottom: 10px;
+}
+
+#design {
+	position: relative;
+	bottom: 18px;
+	display: inline-block;
+	margin-left: 53px;
+	width: 500px;
+	height: 10px;
+	background: #000;
+}
+#css3 {
+	position: relative;
+	bottom: 18px;
+	display: inline-block;
+	margin-left: 45px;
+	width: 300px;
+	height: 10px;
+	background: #000;
+}
+#html5 {
+	position: relative;
+	bottom: 18px;
+	display: inline-block;
+	margin-left: 56px;
+	width: 288px;
+	height: 10px;
+	background: #000;
+}
+#wordpress {
+	position: relative;
+	bottom: 18px;
+	display: inline-block;
+	margin-left: 87px;
+	width: 300px;
+	height: 10px;
+	background: #000;
+}
+#php {
+	position: relative;
+	bottom: 18px;
+	display: inline-block;
+	margin-left: 36px;
+	width: 60px;
+	height: 10px;
+	background: #000;
+}
+#javascript {
+	position: relative;
+	bottom: 18px;
+	display: inline-block;
+	margin-left: 79px;
+	width: 10px;
+	height: 10px;
+	background: #000;
+}
+#photoshop {
+	position: relative;
+	bottom: 18px;
+	display: inline-block;
+	margin-left: 130px;
+	width: 400px;
+	height: 10px;
+	background: #000;
+}
+#illustrator {
+	position: relative;
+	bottom: 18px;
+	display: inline-block;
+	margin-left: 120px;
+	width: 400px;
+	height: 10px;
+	background: #000;
+}
+#indesign {
+	position: relative;
+	bottom: 18px;
+	display: inline-block;
+	margin-left: 114px;
+	width: 380px;
+	height: 10px;
+	background: #000;
+}
+#acrobat {
+	position: relative;
+	bottom: 18px;
+	display: inline-block;
+	margin-left: 138px;
+	width: 285px;
+	height: 10px;
+	background: #000;
+}
+#photography {
+	position: relative;
+	bottom: 18px;
+	display: inline-block;
+	margin-left: 94px;
+	width: 380px;
+	height: 10px;
+	background: #000;
+}
+
+.awards {
+	margin-top: 20px;
+	border-top: 2px solid #000;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 35px;
+}
+.title {
+	padding-top: 10px;
+}
+.title h3 {
+	display: inline;
+	text-align: justify;
+	padding-left: 30px;
+}
+.skilllevel li {
+	display: inline;
+	padding-right: 73px;
+	font-size: 90%;
+}
+.links {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	margin-top: 20px;
+	border-top: 2px solid #000;
+}
+.icons li {
+	display: inline;
+	padding-right: 40px;
+	position: relative;
+
+}
